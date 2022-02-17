@@ -1,0 +1,23 @@
+<template>
+    <div class="content">
+        <div class="container">
+            <div class="block block-rounded">
+                <div class="block-header block-header-default">
+                    <h3 class="block-title">{{ __("Inquiry history list") }}</h3>
+                </div>
+                <div class="block-content block-content-full">
+                    <div class="row">
+                        <div class="col-lg-12 text-center">
+                            <p class="fs-sm text-muted">{{ __("There are no inquiries.") }}</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 mb-2 text-center">
+                        <a class="btn rounded-pill btn-danger" href>{{ __("Make an inquiry") }}</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</template>
+<script setup>
+</script>
