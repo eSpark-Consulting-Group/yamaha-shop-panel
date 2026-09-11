@@ -1587,8 +1587,8 @@ base64-js@^1.0.2:
   resolved "https://registry.npmjs.org/base64-js/-/base64-js-1.5.1.tgz"
 
 baseline-browser-mapping@^2.10.12:
-  version "2.10.37"
-  resolved "https://registry.yarnpkg.com/baseline-browser-mapping/-/baseline-browser-mapping-2.10.37.tgz#3e636475b6b293244e2b23e2c71a2ab9d9e6ba7d"
+  version "2.11.22"
+  resolved "https://registry.yarnpkg.com/baseline-browser-mapping/-/baseline-browser-mapping-2.11.22.tgz#d8b612f54517d8b3a31734623779e5ab8c5ff0b9"
 
 batch@0.6.1:
   version "0.6.1"
